@@ -16,7 +16,7 @@
     "axios": "^0.18.0",
     "echarts": "^4.5.0",
     "element-ui": "^2.3.9",
-    "highcharts": "^8.0.0",
+    "highcharts": "^9.0.0",
     "vue": "^2.5.2",
     "vue-giant-tree": "^0.1.2",
     "vue-router": "^3.0.1",
